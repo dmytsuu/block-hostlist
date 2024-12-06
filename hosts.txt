@@ -1,0 +1,2 @@
+0.0.0.0 track.wargaming-aff.com
+0.0.0.0 wargaming-aff.com
